@@ -83,3 +83,8 @@ jwt:
       fudkijw0dnh28LJqbkFF5wLNtATzyCfzjp+czrPMn9uqLNKt/iVD
       -----END RSA PRIVATE KEY-----
     
+zones:
+  internal:
+    hostnames:
+      - 129.185.160.191
+      - 127.0.0.1
