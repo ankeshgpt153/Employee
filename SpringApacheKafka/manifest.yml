@@ -1,0 +1,8 @@
+---
+applications:
+- name: spring-kafka
+  memory: 512MB
+  host: spring-kafka
+  path: target/SpringApacheKafka-0.0.1.jar
+  services:
+  - kafka-test

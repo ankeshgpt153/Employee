@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: net.atos.coei4.apachekafka.SpringApacheKafkaApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.664 sec - in net.atos.coei4.apachekafka.SpringApacheKafkaApplicationTests
